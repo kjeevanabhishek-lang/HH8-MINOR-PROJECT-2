@@ -1,4 +1,4 @@
-# Hardware Hacking Lab (Simulation-Based)
+# Hardware Hacking Lab 
 
 ### Short Description
 A virtual hardware security lab that presents a basic understanding of access control vulnerabilities, as depicted using the Arduino.
