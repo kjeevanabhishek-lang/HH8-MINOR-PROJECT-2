@@ -28,7 +28,6 @@ The text on the Serial Monitor display reads: **Access Granted**
 ### Result
  Anyone can access the room just by pressing the button.
 
- **BAL
  ## Experiment 2: Analysis of Vulnerability The codeIn this
 
 ### Observation
